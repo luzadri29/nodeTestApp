@@ -4,7 +4,7 @@ var bodyParser = require('body-parser');
 
 
 //define port
-var port = (process.env.PORT || 7171);
+var port = (process.env.PORT || 8080);
 
 
 //POST bodyParsers
