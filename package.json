@@ -13,10 +13,6 @@
   },
   "author": "Luz Adriana",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/luzadri29/test.git"
-  },
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2"
